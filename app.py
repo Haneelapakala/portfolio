@@ -91,8 +91,7 @@ if selected == "About":
             st.subheader("""
             Education: 
             MASTER OF SCIENCE (M.S.) IN COMPUTER SCIENCE at Texas A&M University-Commerce Aug  2022 to May 2024
-            Graduate Research Assistant (Published a Journal Evaluating Unbalanced Network Data for Attack Detection )
-            Specialization: Artificial Intelligence, Data analysis and Visualization.
+            
 
         """)
         with col2:
@@ -110,26 +109,22 @@ if selected == "About":
             st.write("•	Contributed to innovative projects (ReX, Sky, Kai) in personalized education, career coaching, and AI-powered teaching assistance, showcasing breadth in AI applications. ")
             st.write("___")
             st.subheader("""
-            Data Science Intern at Kairos Technologies- Dallas, Texas            Oct 2022 – March 2023""")
-            st.write("•	Preprocessed and analyzed large datasets using Python libraries (e.g., Pandas, NumPy, NLTK), extracting meaningful insights through visualization techniques.")
-            st.write("•	Developed sentiment analysis models using machine learning algorithms (e.g., Naive Bayes, SVM) to classify customer feedback, aiding in decision-making.")
+            Machine Learning Intern at BEPEC SOLUTION - Bangalore, India          Mar 2023 - Mar 2024""")
+            st.write("•Developed sentiment analysis engine using Python, NLTK and Scikit-learn to classify emotions and opinions in employee feedback reviews for manager performance.")
+            st.write("•	Lead the design and development of MLops pipline using Sagemaker, MLFlow and S3 .") 
+            st.write("•	Employed AWS cloud, Python, SQL and CI/CD pipeline for developing the desired model by research and quantitative analysis .")
+            st.write("•	Trained a LLM model (GPT-3) on a dataset covering 80% of customer support tickets to automate 70% of common inquiries, resulting in a notable 45% reduction in response time and a significant 35% increase in customer satisfaction.") 
             st.write("___")
             st.subheader("""
-            Machine Learning Intern at BEPEC SOLUTION - Bangalore, India          Feb 2023 -Feb 2024""")
-            st.write("•	Utilized machine learning algorithms like Random Forest, Gradient Boosting, and SVM for yield estimation in crop production. Conducted detailed analysis and achieved significant predictive results.")
-            st.write("•	Developed a high-accuracy semantic segmentation model for autonomous driving using PyTorch and CNNs like U-Net and FCN, achieving 90% accuracy on datasets like Cityscapes and KITTI. Integrated CRFs for refined segmentation masks.") 
-            st.write("___")
-            st.subheader("""
-            Assistant Systems Engineer: Tata Consultancy Services (TCS) - [Chennai, India] """)
-            st.subheader("""
-            Assistant Systems Engineer                                            Jan 2021 – Sep 2021                                                                                                                       
-            •	Debugged complex code (C#, Python), optimized SQL queries, and streamlined CI/CD pipelines to improve system performance and reliability for a client website.""")
-            st.write("•	Implemented performance enhancements, resolved database integrity issues, and proactively addressed code vulnerabilities to maintain system stability.")
-            st.subheader("""
-            Data Engineer                                                        Sep 2021 – July 2022
-            •	Cleaned and transformed raw client data using Python libraries (e.g., Pandas, NumPy) for quality assurance and downstream analysis.""")
+            Application Development Associate:  ACCENTURE - [Hyderabad, India]                                                                     (Jan 2021 – Aug 2022)  """)
+            st.subheader("""                                                                                                                       
+            •	Developed ETL pipelines and Big Query scripts for seamless data transformation and knowledge extraction, enhancing project efficiencies. Accelerated unit testing using Google Cloud Platform and Python, ensuring robustness of codebase.""")
+            st.write("•	Debugged complex code (C#, Python), optimized SQL queries, and streamlined CI/CD pipelines to improve system performance and reliability for a client website.")
+            st.write("•	Implemented predictive modeling with logistic regression and decision trees, achieving 85% accuracy on test datasets. Integrated automated anomaly detection to identify data irregularities and ensure data quality throughout the pipeline.")
             st.write("•	Developed data visualizations in Power BI, communicating complex findings and trends to stakeholders effectively.")
-            st.write("•	Employed feature engineering techniques and basic ML algorithms (e.g., decision trees, linear regression) for initial pattern discovery and predictive modeling.")
+
+            
+
         with col3:
             pass
             
@@ -145,7 +140,7 @@ if selected == "Projects":
         with col6:
             st.subheader("Chatbot-for-Ecommerce-using-PALM")
             st.write("Built a chatbot for E-commerce using PALM, Langchain")
-            st.markdown("[Visit Github Repo](https://github.com/prem8667/Chatbot-for-Ecommerce-using-PALM)")
+            st.markdown("[Visit Github Repo](https://github.com/Haneelapakala/chatbot-using-Palm)")
 
     with st.container():
         st.write("##")
@@ -154,9 +149,9 @@ if selected == "Projects":
             st_lottie(lottie_sentiment, height = 150)
             # st.image(image)
         with col7:
-            st.subheader("Sentiment Analysis Using Bert")
-            st.write("Built a sentiment analysys for reviews of restaurent using BERT")
-            st.markdown("[Visit Github Repo](https://github.com/prem8667/BERT-Sentiment)")
+            st.subheader("Linkedin_analysis")
+            st.write("Built a Sentiment Analysis of LinkedIn Messages")
+            st.markdown("[Visit Github Repo](https://github.com/Haneelapakala/linkedin_analysis)")
 
     with st.container():
         st.write("##")
@@ -165,9 +160,9 @@ if selected == "Projects":
             st_lottie(lottie_newsresearch, height = 150)
             # st.image(image)
         with col9:
-            st.subheader("News Research tool using OpenAI LLM")
-            st.write("Built a News research tool using OpenAI")
-            st.markdown("[Visit Github Repo](https://github.com/prem8667/News-research-tool-using-LLM)")
+            st.subheader("Sentiment Analysis ")
+            st.write("Built a Sentiment Analysis Using BERT")
+            #st.markdown("[Visit Github Repo](https://github.com/Haneelapakala/BERT)")
 
     with st.container():
         st.write("##")
@@ -178,7 +173,7 @@ if selected == "Projects":
         with col11:
             st.subheader("Conversational-Q-A-Chatbot")
             st.write("Built a Conversational Q-A  Chatbot using OpenAI")
-            st.markdown("[Visit Github Repo](https://github.com/prem8667/Conversational-Q-A-Chatbot)")
+            #st.markdown("[Visit Github Repo](https://github.com/prem8667/Conversational-Q-A-Chatbot)")
 
     with st.container():
         st.write("##")
@@ -189,7 +184,7 @@ if selected == "Projects":
         with col13:
             st.subheader("Blog-Generation-Using-Langchain")
             st.write("Built a Blog generation webpage using Langchain")
-            st.markdown("[Visit Github Repo](https://github.com/prem8667/Blog-Generation-Using-Langchain)")
+            #st.markdown("[Visit Github Repo](https://github.com/prem8667/Blog-Generation-Using-Langchain)")
 
     
 
@@ -202,7 +197,7 @@ if selected == "Projects":
         with col15:
             st.subheader("Automobile Price prediction")
             st.write("Predicted prices of automobile usinh different ML algorithms")
-            st.markdown("[Visit Github Repo](https://github.com/prem8667/Automobile-Price-Prediction)")
+            #st.markdown("[Visit Github Repo](https://github.com/prem8667/Automobile-Price-Prediction)")
     with st.container():
         
         st.write("##")
@@ -213,7 +208,7 @@ if selected == "Projects":
         with col17:
             st.subheader("Cancer Prediction")
             st.write("Predicted Cancer using Logistic KNN and Decision-Tree")
-            st.markdown("[Visit Github Repo](https://github.com/prem8667/Cancer-prediction-using-Logistic-KNN-and-Decision-Tree)")
+            #st.markdown("[Visit Github Repo](https://github.com/prem8667/Cancer-prediction-using-Logistic-KNN-and-Decision-Tree)")
     with st.container():
         
         st.write("##")
@@ -224,26 +219,8 @@ if selected == "Projects":
         with col19:
             st.subheader("Attack Detection Using Autoencoders")
             st.write("Anomoly detection using Autoencoders")
-            st.markdown("[Visit Github Repo](https://github.com/prem8667/Anomaly-detection-using-Autoencoders)")
+            #st.markdown("[Visit Github Repo](https://github.com/prem8667/Anomaly-detection-using-Autoencoders)")
 
-# if selected== "Contact":
-#     st.header("Get in touch!")
-#     st.write("##")
-#     st.write("##")
-#     contact_form = """
-#     <form action="https://formsubmit.co/premrasakonda@email.com" method="POST">
-#      <input type="hidden" name="_captcha" value ="false">
-#      <input type="text" name="name" placeholder = "your name" required>
-#      <input type="email" name="email" placeholder =  "your email" required>
-#      <button type="submit">Send</button>
-# </form>
-# """
-
-#     left_col, right_col = st.columns((2,1))
-#     with left_col:
-#         st.markdown(contact_form, unsafe_allow_html= True )
-#     with right_col:
-#         st_lottie(lottie_contact, height = 300)
 
 
 
