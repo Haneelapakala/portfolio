@@ -116,9 +116,8 @@ if selected == "About":
             st.write("•	Trained a LLM model (GPT-3) on a dataset covering 80% of customer support tickets to automate 70% of common inquiries, resulting in a notable 45% reduction in response time and a significant 35% increase in customer satisfaction.") 
             st.write("___")
             st.subheader("""
-            Application Development Associate:  ACCENTURE - [Hyderabad, India]                                                                     (Jan 2021 – Aug 2022)  """)
-            st.write("                                                                                                                       
-            •	Developed ETL pipelines and Big Query scripts for seamless data transformation and knowledge extraction, enhancing project efficiencies. Accelerated unit testing using Google Cloud Platform and Python, ensuring robustness of codebase.")
+            Application Development Associate:  ACCENTURE - [Hyderabad, India]  """)                                                                   (Jan 2021 – Aug 2022)  """)
+            st.write(" • Developed ETL pipelines and Big Query scripts for seamless data transformation and knowledge extraction, enhancing project efficiencies. Accelerated unit testing using Google Cloud Platform and Python, ensuring robustness of codebase.")
             st.write("•	Debugged complex code (C#, Python), optimized SQL queries, and streamlined CI/CD pipelines to improve system performance and reliability for a client website.")
             st.write("•	Implemented predictive modeling with logistic regression and decision trees, achieving 85% accuracy on test datasets. Integrated automated anomaly detection to identify data irregularities and ensure data quality throughout the pipeline.")
             st.write("•	Developed data visualizations in Power BI, communicating complex findings and trends to stakeholders effectively.")
