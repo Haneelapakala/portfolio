@@ -38,9 +38,9 @@ with st.container():
         with colu1:
             st.write("##")
             st.subheader("Hey Guys  :wave:")
-            st.title("Prem Kumar Rasakonda")
-            # st.write(""" Prem Kumar Rasakonda""")
-            # st.write("[Read More](https://www.linkedin.com/in/prem-kumar-rasakonda-b54046177/)")
+            st.title("Haneela Pakala")
+            # st.write(""" Haneela Pakala""")
+            # st.write("[Read More](https://www.linkedin.com/in/haneelapakala/)")
         with colu2:
             st.image(image, width = 200)
 with st.container(): 
@@ -62,14 +62,14 @@ with st.container():
         
         
         with colu6:
-            st.write("[Linkedin](https://www.linkedin.com/in/prem-kumar-rasakonda-b54046177/)")
+            st.write("[Linkedin](https://www.linkedin.com/in/haneelapakala/)")
             
       
         with colu7:
-            st.write("Premrasakonda@gmail.com")
+            st.write("pakalahaneelareddy@gmail.com")
        
         with colu8:
-            st.write("+1 (945)900-3469")
+            st.write("+1 (945)209-1823")
 
 
 st.write("___")
@@ -86,7 +86,7 @@ if selected == "About":
         col1, col2 = st.columns(2)
         with col1:
             st.write("##")
-            st.subheader("I am Prem Kumar Rasakonda")
+            st.subheader("I am Haneela Pakala")
             st.title("Graduate from Texas A&M University - Commerce")
             st.subheader("""
             Education: 
