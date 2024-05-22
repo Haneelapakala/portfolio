@@ -181,9 +181,9 @@ if selected == "Projects":
             st_lottie(lottie_blog, height = 150)
             # st.image(image)
         with col13:
-            st.subheader("Blog-Generation-Using-Langchain")
-            st.write("Built a Blog generation webpage using Langchain")
-            #st.markdown("[Visit Github Repo](https://github.com/prem8667/Blog-Generation-Using-Langchain)")
+            st.subheader("Shakespearean Text Generator")
+            st.write("Generates text given a cue in the style of Shakespearean Language.")
+            #st.markdown("[Visit Github Repo](https://github.com/Haneelapakala/Shakespearean-Text-Generator)")
 
     
 
