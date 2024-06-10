@@ -170,9 +170,9 @@ if selected == "Projects":
             st_lottie(lottie_qa, height = 150)
             # st.image(image)
         with col11:
-            st.subheader("Conversational-Q-A-Chatbot")
-            st.write("Built a Conversational Q-A  Chatbot using OpenAI")
-            #st.markdown("[Visit Github Repo](https://github.com/prem8667/Conversational-Q-A-Chatbot)")
+            st.subheader("Real-Time Streaming")
+            st.write("Real-Time Streaming-Apache Flink ")
+            #st.markdown("[Visit Github Repo](https://github.com/Haneelapakala/Real-Time-Streaming)")
 
     with st.container():
         st.write("##")
@@ -208,18 +208,7 @@ if selected == "Projects":
             st.subheader("Cancer Prediction")
             st.write("Predicted Cancer using Logistic KNN and Decision-Tree")
             #st.markdown("[Visit Github Repo](https://github.com/prem8667/Cancer-prediction-using-Logistic-KNN-and-Decision-Tree)")
-    with st.container():
-        
-        st.write("##")
-        col18, col19  = st.columns((1,2))
-        with col18:
-            st_lottie(lottie_cyber, height = 150)
-
-        with col19:
-            st.subheader("Attack Detection Using Autoencoders")
-            st.write("Anomoly detection using Autoencoders")
-            #st.markdown("[Visit Github Repo](https://github.com/prem8667/Anomaly-detection-using-Autoencoders)")
-
+    
 
 
 
