@@ -110,25 +110,17 @@ if selected == "About":
             st.write("___")
             st.subheader("""
             Machine Learning Intern at BEPEC SOLUTION - Bangalore, India          Mar 2023 - Mar 2024""")
-            st.write("•Identified patterns in customer feedback employed feature engineering, decision trees, linear regression. The objective was to 
-identify patterns and build initial predictive models to enhance service delivery and customer satisfaction.")
-            st.write("•  Optimized NLP models Naïve Bayes, LSTM, BERT to achieve 83% accuracy in identifying sentiment polarity, setting a new 
-benchmark for manager ratings, also led the design and development of an MLops pipeline using SageMaker, MLFlow, and S3 .") 
-            st.write("•Successfully deployed a predictive model that accurately identified customer churn with an 85% accuracy rate, leading to a 20% 
-reduction in customer turnover.")
-            st.write("•	Enhanced team productivity by 30% and improved data accuracy through detailed data profiling and solution recommendations. 
-Created a comprehensive data rules spreadsheet in MS Excel, streamlining data updates and reporting processes.") 
+            st.write("•Identified patterns in customer feedback employed feature engineering, decision trees, linear regression. The objective was to identify patterns and build initial predictive models to enhance service delivery and customer satisfaction.")
+            st.write("•  Optimized NLP models Naïve Bayes, LSTM, BERT to achieve 83% accuracy in identifying sentiment polarity, setting a new benchmark for manager ratings, also led the design and development of an MLops pipeline using SageMaker, MLFlow, and S3 .") 
+            st.write("•Successfully deployed a predictive model that accurately identified customer churn with an 85% accuracy rate, leading to a 20% reduction in customer turnover.")
+            st.write("•	Enhanced team productivity by 30% and improved data accuracy through detailed data profiling and solution recommendations. Created a comprehensive data rules spreadsheet in MS Excel, streamlining data updates and reporting processes.") 
             st.write("___")
             st.subheader("""
             Application Development Associate:  ACCENTURE - [Hyderabad, India]        (Jan 2021 – Aug 2022)  """)                                                                   
-            st.write(" • Proficiently handled substantial datasets using Python and SQL. Produced custom reports and visualizations for insightful 
-stakeholder understanding. Employed Excel, programming and statistics for comprehensive data analysis and reporting.")
-            st.write("•	Led the Customer Purchase Behavior Analysis where I utilized Power BI, Tableau, and SQL dashboards to search, explore, and 
-visualize data, significantly improving data analysis efficiency.")
-            st.write("•	Utilized Python for data transformation processes, streamlining complex data manipulations and improving processing efficiency. 
-Created automated data validation scripts reducing manual data validation.")
-            st.write("•	Developed ETL pipelines and Big Query scripts for seamless data transformation and knowledge extraction, enhancing project 
-efficiencies. Accelerated unit testing using Google Cloud Platform and Python, ensuring robustness of codebase.")
+            st.write(" • Proficiently handled substantial datasets using Python and SQL. Produced custom reports and visualizations for insightful stakeholder understanding. Employed Excel, programming and statistics for comprehensive data analysis and reporting.")
+            st.write("•	Led the Customer Purchase Behavior Analysis where I utilized Power BI, Tableau, and SQL dashboards to search, explore, and visualize data, significantly improving data analysis efficiency.")
+            st.write("•	Utilized Python for data transformation processes, streamlining complex data manipulations and improving processing efficiency. Created automated data validation scripts reducing manual data validation.")
+            st.write("•	Developed ETL pipelines and Big Query scripts for seamless data transformation and knowledge extraction, enhancing project efficiencies. Accelerated unit testing using Google Cloud Platform and Python, ensuring robustness of codebase.")
 
             
 
