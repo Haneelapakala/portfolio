@@ -105,22 +105,29 @@ if selected == "About":
             st.title("Expereince:")
             st.subheader("""
             Artificial Intelligence Intern at Radical AI – New York,  USA        March 2024 – Present""")
-            st.write("•	Designed and deployed AI applications using cutting-edge frameworks (OpenAI Assistant API, Google Gemini), honed prompt engineering skills, and optimized data for generative AI models.")
-            st.write("•	Contributed to innovative projects (ReX, Sky, Kai) in personalized education, career coaching, and AI-powered teaching assistance, showcasing breadth in AI applications. ")
+            st.write("•Contributed to innovative projects (ReX, Sky, Kai) in personalized education, career coaching, and AI-powered teaching assistance, showcasing breadth in AI applications.")
+            st.write("•Utilized transfer learning and fine-tuning of pre-trained models to adapt to specific educational content, ensuring high accuracy.")
+            st.write("•Implemented generative AI techniques to create custom content and personalized learning paths for students, significantly improving engagement and retention rates.")
+            st.write("•Developed AI-driven career coaching tools that leverage LLMs to offer personalized advice, resume building tips, and interview preparation, helping users achieve their career goals.")
             st.write("___")
             st.subheader("""
             Machine Learning Intern at BEPEC SOLUTION - Bangalore, India          Mar 2023 - Mar 2024""")
             st.write("•Identified patterns in customer feedback employed feature engineering, decision trees, linear regression. The objective was to identify patterns and build initial predictive models to enhance service delivery and customer satisfaction.")
-            st.write("•  Optimized NLP models Naïve Bayes, LSTM, BERT to achieve 83% accuracy in identifying sentiment polarity, setting a new benchmark for manager ratings, also led the design and development of an MLops pipeline using SageMaker, MLFlow, and S3 .") 
-            st.write("•Successfully deployed a predictive model that accurately identified customer churn with an 85% accuracy rate, leading to a 20% reduction in customer turnover.")
-            st.write("•	Enhanced team productivity by 30% and improved data accuracy through detailed data profiling and solution recommendations. Created a comprehensive data rules spreadsheet in MS Excel, streamlining data updates and reporting processes.") 
+            st.write("•Engineered and implemented advanced prompt strategies to significantly improve the quality of outputs from LLM’s.") 
+            st.write("•Fine-tuned open-source LLMs using Parameter-Efficient Transfer Learning (PEFT) to achieve the desired text format.")
+            st.write("•Implemented image segmentation and point localization with mask R-CNN, YOLO in OpenCV and object tracking.") 
+            st.write("•Created a user-friendly Flask interface on AWS SageMaker, enhancing ultrasound image segmentation by 6%.")
+            st.write("•Prototyped algorithms for 3D face model conversion from 2D images using depth information and key point access.")
             st.write("___")
             st.subheader("""
             Application Development Associate:  ACCENTURE - [Hyderabad, India]        (Jan 2021 – Aug 2022)  """)                                                                   
-            st.write(" • Proficiently handled substantial datasets using Python and SQL. Produced custom reports and visualizations for insightful stakeholder understanding. Employed Excel, programming and statistics for comprehensive data analysis and reporting.")
-            st.write("•	Led the Customer Purchase Behavior Analysis where I utilized Power BI, Tableau, and SQL dashboards to search, explore, and visualize data, significantly improving data analysis efficiency.")
-            st.write("•	Utilized Python for data transformation processes, streamlining complex data manipulations and improving processing efficiency. Created automated data validation scripts reducing manual data validation.")
-            st.write("•	Developed ETL pipelines and Big Query scripts for seamless data transformation and knowledge extraction, enhancing project efficiencies. Accelerated unit testing using Google Cloud Platform and Python, ensuring robustness of codebase.")
+            st.write("•Developed ETL pipelines and Big Query scripts for seamless data transformation and knowledge extraction, enhancing project efficiencies. Accelerated unit testing using Google Cloud Platform and Python, ensuring robustness of codebase.")
+            st.write("•Created a CI/CD pipeline using Azure DevOps for automating application deployment, reducing deployment time by 25%.")
+            st.write("•Created and aggregated daily reports for clients by analyzing data provided by the client and from data sources improving decision making.")
+            st.write("•Utilized statistical methods, metrics, quantitative methods, and strategic project plans for data collection, ensuring integrity and accuracy.")
+            st.write("•Analyzed and optimized complex SQL queries for various products, reducing total execution time by 13% across all products.")
+            st.write("•Engineered advanced machine learning models using python programming to forecast customer churn, resulting in a 20% decrease in customer churn and a remarkable $5 million boost in annual revenue.")
+            st.write("•Employed data blending techniques in Tableau to combine data from multiple sources and create comprehensive visualizations.")
 
             
 
